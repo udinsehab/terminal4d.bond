@@ -1,0 +1,482 @@
+.bank {
+    width: 145px !important;
+    height: 94px !important;
+    padding: 0 !important;
+    background-color: transparent !important;
+    border: 0px;
+}
+
+.results {
+    margin-bottom: 15px !important;
+}
+
+.section .container { 
+    background-color: rgba(0, 20, 19, 0.5) !important;
+}
+
+body {
+    background: #000000 url(../../wp-content/uploads/bg-terminal4d-scaled.jpeg) center center no-repeat !important;
+    background-position: top !important;
+    background-attachment: fixed !important;
+    
+}
+
+#bank .row {
+    border-bottom : 7px solid #9fdf1c !important;
+    padding : 0 !important;
+  }
+  
+.bankscroll {
+    position:relative;
+    margin-top:-110px !important;
+    z-index: 999 !important;
+}
+
+
+  footer#footer {
+    background-color:  rgba(0, 20, 19, 1) !important;
+    border-top: 0px !important;
+}
+
+
+/* Untuk sliders */
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(1) {
+    content: url(../../img/terminal4d/ictoto.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(2) {
+    content: url(../../img/terminal4d/sg7days.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(3) {
+    content: url(../../img/terminal4d/oregon.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(4) {
+    content: url(../../img/terminal4d/kowloon.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(5) {
+    content: url(../../img/terminal4d/oregon.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(6) {
+    content: url(../../img/terminal4d/tokyototo.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(7) {
+    content: url(../../img/terminal4d/hongkong.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(8) {
+    content: url(../../img/terminal4d/sydney.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(9) {
+    content: url(../../img/terminal4d/singapore.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(10) {
+    content: url(../../img/terminal4d/bullseye.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(11) {
+    content: url(../../img/terminal4d/cambodia.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(12) {
+    content: url(../../img/terminal4d/carolina.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(13) {
+    content: url(../../img/terminal4d/china.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(14) {
+    content: url(../../img/terminal4d/florida.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(15) {
+    content: url(../../img/terminal4d/kentucky.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(16) {
+    content: url(../../img/terminal4d/lalottery.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(17) {
+    content: url(../../img/terminal4d/magnum.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(18) {
+    content: url(../../img/terminal4d/jersey.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(19) {
+    content: url(../../img/terminal4d/osaka.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(20) {
+    content: url(../../img/terminal4d/russia.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(21) {
+    content: url(../../img/terminal4d/taiwan.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(22) {
+    content: url(../../img/terminal4d/macau.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(23) {
+    content: url(../../img/terminal4d/3d shio.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(24) {
+    content: url(../../img/terminal4d/48D.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(25) {
+    content: url(../../img/terminal4d/5d ball.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(26) {
+    content: url(../../img/terminal4d/baccarat.jpg) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(27) {
+    content: url(../../img/terminal4d/bingo shio.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(28) {
+    content: url(../../img/terminal4d/dragon tiger.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(29) {
+    content: url(../../img/terminal4d/gong ball.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(30) {
+    content: url(../../img/terminal4d/head tail.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(31) {
+    content: url(../../img/terminal4d/monopoly.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(32) {
+    content: url(../../img/terminal4d/poker dice.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(33) {
+    content: url(../../img/terminal4d/red white.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(34) {
+    content: url(../../img/terminal4d/roulette.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(35) {
+    content: url(../../img/terminal4d/shio fight.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(36) {
+    content: url(../../img/terminal4d/sicbpo.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(37) {
+    content: url(../../img/terminal4d/suwit.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(38) {
+    content: url(../../img/terminal4d/magnum.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(39) {
+    content: url(../../img/terminal4d/jersey.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(40) {
+    content: url(../../img/terminal4d/osaka.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(41) {
+    content: url(../../img/terminal4d/ictoto.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(42) {
+    content: url(../../img/terminal4d/russia.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(43) {
+    content: url(../../img/terminal4d/taiwan.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(44) {
+    content: url(../../img/terminal4d/macau.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(45) {
+    content: url(../../img/terminal4d/ictoto.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(46) {
+    content: url(../../img/terminal4d/sg7days.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(47) {
+    content: url(../../img/terminal4d/kowloon.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(48) {
+    content: url(../../img/terminal4d/ictoto.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(49) {
+    content: url(../../img/terminal4d/sg7days.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(50) {
+    content: url(../../img/terminal4d/oregon.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(51) {
+    content: url(../../img/terminal4d/kowloon.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(52) {
+    content: url(../../img/terminal4d/oregon.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(53) {
+    content: url(../../img/terminal4d/tokyototo.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(54) {
+    content: url(../../img/terminal4d/hongkong.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(55) {
+    content: url(../../img/terminal4d/sydney.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(56) {
+    content: url(../../img/terminal4d/singapore.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(57) {
+    content: url(../../img/terminal4d/bullseye.png) !important;
+}
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(58) {
+    content: url(../../img/terminal4d/cambodia.png) !important;
+}
+
+
+.gameicon .owl-wrapper-outer .owl-wrapper .owl-item:nth-child(59) {
+    content: url(../../img/terminal4d/carolina.png) !important;
+}
+
+
+
+
+
+/* untuk bank bca*/
+
+.online.bca {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/bca.gif) 0px 0px no-repeat !important;
+}
+
+.trouble.bca {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/trouble/bca-trouble.gif) 0px 0px no-repeat !important;
+}
+
+.offline.bca {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/offline/bca-offline.gif) 0px 0px no-repeat !important;
+}
+
+/* untuk bank ovo*/
+
+.online.ovo {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/ovo.gif) 0px 0px no-repeat !important;
+}
+
+.trouble.ovo {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/trouble/ovo-trouble.gif) 0px 0px no-repeat !important;
+}
+
+.offline.ovo {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/offline/ovo-offline.gif) 0px 0px no-repeat !important;
+}
+
+/* untuk bank bni*/
+
+.online.bni {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/bni.gif) 0px 0px no-repeat !important;
+}
+
+.trouble.bni {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/trouble/bni-trouble.gif) 0px 0px no-repeat !important;
+}
+
+.offline.bni {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/offline/bni-offline.gif) 0px 0px no-repeat !important;
+}
+
+/* untuk bank bri*/
+
+.online.bri {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/bri.gif) 0px 0px no-repeat !important;
+}
+
+.trouble.bri {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/trouble/bri-trouble.gif) 0px 0px no-repeat !important;
+}
+
+.offline.bri {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/offline/bri-offline.gif) 0px 0px no-repeat !important;
+}
+
+/* untuk bank bsi*/
+
+.online.bsi {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/bsi.gif) 0px 0px no-repeat !important;
+}
+
+.trouble.bsi {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/trouble/bsi-trouble.gif) 0px 0px no-repeat !important;
+}
+
+.offline.bsi {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/offline/bsi-offline.gif) 0px 0px no-repeat !important;
+}
+
+/* untuk bank dana*/
+
+.online.dana {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/dana.gif) 0px 0px no-repeat !important;
+}
+
+.trouble.dana {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/trouble/dana-trouble.gif) 0px 0px no-repeat !important;
+}
+
+.offline.dana {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/offline/dana-offline.gif) 0px 0px no-repeat !important;
+}
+
+/* untuk bank danamon*/
+
+.online.danamon {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/danamon.gif) 0px 0px no-repeat !important;
+}
+
+.trouble.danamon {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/trouble/danamon-trouble.gif) 0px 0px no-repeat !important;
+}
+
+.offline.danamon {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/offline/danamon-offline.gif) 0px 0px no-repeat !important;
+}
+
+/* untuk bank gopay*/
+
+.online.gopay {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/gopay.gif) 0px 0px no-repeat !important;
+}
+
+.trouble.gopay {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/trouble/gopay-trouble.gif) 0px 0px no-repeat !important;
+}
+
+.offline.gopay {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/offline/gopay-offline.gif) 0px 0px no-repeat !important;
+}
+
+/* untuk bank linkaja*/
+
+.online.linkaja {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/linkaja.gif) 0px 0px no-repeat !important;
+}
+
+.trouble.linkaja {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/trouble/link-aja-trouble.gif) 0px 0px no-repeat !important;
+}
+
+.offline.linkaja {
+    width: 168px !important;
+    height: 94px !important;
+    background: url(../../img/banklist/offline/link-aja-offline.gif) 0px 0px no-repeat !important;
+}

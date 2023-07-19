@@ -1,0 +1,63 @@
+@media screen and (max-width: 1200px) {
+    .results {
+        border-bottom: solid 4px #fff !important;
+        background-color: #075710 !important;
+        width: 49% !important;
+        display: inline-block !important;
+        border-radius: 25px 5px 25px 5px !important;
+        margin-bottom: 0 !important;
+        padding: 0 !important;
+    }
+
+    .pool-name {
+        color: #fff !important;
+        background: linear-gradient(to right, #f89e00, #075710) !important;
+        width: 100% !important;
+        font-size: 18px !important;
+        font-weight: bold !important;
+        text-align: center !important;
+        border-bottom: 1px solid #db000a !important;
+    }
+
+    .pool-date {
+        font-size: 18px !important;
+        margin-left: 0 !important;
+        padding-top: 0 !important;
+        text-align: center !important;
+        display: block !important;
+        color: #fff !important;
+    }
+
+    .pool-result {
+        color: #fff !important;
+        text-align: center !important;
+        width: 100% !important;
+        font-size: 40px !important;
+        font-weight: bold !important;
+        line-height: 1.2 !important;
+        float: none !important;
+    }
+}
+
+.button-blue {
+    background: linear-gradient(to right, #075710, #f89e00) !important;
+    color: #fff !important;
+    border-bottom: solid 4px #fff !important;
+    border-radius: 10px !important;
+    text-align: center;
+    padding-bottom: 24px;
+    min-width: 43%;
+    padding: 10px 26px 10px 26px;
+    display: inline-block;
+    margin-bottom: 10px;
+    font-family: aller;
+    font-size: 20px;
+    box-shadow: inset 0 -4px 0 rgb(27, 105, 60);
+}
+
+.button-green {
+    background: linear-gradient(to right, #075710, #f89e00) !important;
+    color: #fff !important;
+    border-bottom: solid 4px #fff !important;
+    border-radius: 10px !important;
+}

@@ -1,0 +1,75 @@
+.bg-dd {
+	display: inline-block;
+    float: left;
+    margin-left: -114px;
+}
+
+.bg-dd button {
+	background-color: transparent;
+	color: #000;
+    border-color: #CCC;
+}
+
+.btn-primary:hover, 
+.btn-primary:focus, 
+.btn-primary:active, 
+.btn-primary.active, 
+.open>.dropdown-toggle.btn-primary {
+	color: #000 !important;
+    background-color: #F7F7F7 !important;
+    border-color: #CCCCCC !important;
+}
+
+.bg-dd button:hover,
+.bg-dd button:active,
+.bg-dd button:focus,
+.bg-dd button:visited {
+	color: #000 !important;
+    background-color: #F7F7F7 !important;
+    border-color: #CCCCCC !important;
+}
+
+.dropdown-menu>li>a {
+	display: inline-block;
+	padding: 5px 21px;
+}
+
+.dropdown-menu {
+	min-width: 115px;
+}
+
+ul.dropdown-menu {
+	padding: 0;
+	top: 73%;
+}
+
+ul.dropdown-menu li {
+	cursor: pointer;
+	line-height: 0;
+}
+
+ul.dropdown-menu li:hover {
+	border: 4px;
+}
+
+.div-buku-mimpi input[type="text"],
+.div-buku-mimpi select {
+	height: 36px;
+}
+
+.bukumimpi-table {
+	margin-top: 15px;
+	height: 656px;
+    overflow: auto;
+}
+
+.contact-icon-big {
+	background: url('../img/contacts-big.png') no-repeat;
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+    vertical-align: middle;
+}
+
+.error-reg{background:#f2dddd;color:#a70707;height:38px;width:100%;padding:8px;margin:10px 0px;border-radius:7px;display:inline-block;text-align:center;}
+.img-reg{position:absolute;top:5px;right:-15px;width:25px;}
